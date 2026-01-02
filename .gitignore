@@ -1,2 +1,6 @@
-LIB_Deg-main/
-DATA_LIB_Degradation/
+*/
+borrar despues.py
+*.pkl
+*.rar
+*.zip
+*.csv

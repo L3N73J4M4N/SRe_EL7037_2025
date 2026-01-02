@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/DATA_LIB_Degradation" />
+      <excludeFolder url="file://$MODULE_DIR$/LIB_Deg-main" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (GE_Re_EL7037_2025)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
