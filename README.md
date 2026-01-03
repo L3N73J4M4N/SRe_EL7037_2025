@@ -13,7 +13,7 @@ El trabajo se realizó principalmente mediante Jupyter Notebook:
 - **Exploración y Ajustes:** repartido entre los *jupyters* de `Nuevo Calculo de Nu.ipynb`, `Correlaciones y DB-SCAN.ipynb` y `Comparación.ipynb`.
 - **Experimentos:** están contenidos en el resto de `ipynb`.
 
-### Referencias
+## Referencias
 **[1]** L. Hormazábal, “Optimización Mediante Regresión Simbólica de un Modelo Térmico-Paramétrico de Baterías de Litio Incluyendo Desgaste,” Memoria de título, Depto. de Ingeniería Eléctrica, Universidad de Chile, 2025. [En línea]. Disponible en: https://repositorio.uchile.cl/handle/2250/205479.
 
 **[2]** R. De la Sotta, P. Estevez, J. Vergara & W. Calderón-Muñoz, “Model-based battery thermal parameter Optimization using symbolic regression,” Journal of Energy Storage, vol. 73, 2023. DOI: https://doi.org/10.1016/j.est.2023.109243.
