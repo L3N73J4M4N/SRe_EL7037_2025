@@ -1,5 +1,6 @@
 */
 !outputs/
+!outputs/**
 borrar despues.py
 *.pkl
 *.rar
