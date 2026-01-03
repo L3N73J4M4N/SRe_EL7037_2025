@@ -1,6 +1,6 @@
 */
-borrar despues.py
 !outputs/
+borrar despues.py
 *.pkl
 *.rar
 *.zip
